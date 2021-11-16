@@ -99,6 +99,7 @@ If you encounter problems with lig-aikuma (no android phone/tablet to install it
 
 A post-course informal collaboration lead to the following paper published to the **AfricaNLP2021 workshop** !
 
+```
 @article{DBLP:journals/corr/abs-2103-08993,
   author    = {Jama Hussein Mohamud and
                Lloyd Acquaye Thompson and
@@ -116,6 +117,7 @@ A post-course informal collaboration lead to the following paper published to th
   biburl    = {https://dblp.org/rec/journals/corr/abs-2103-08993.bib},
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
+```
 
 
 
